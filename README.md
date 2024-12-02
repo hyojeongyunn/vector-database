@@ -7,14 +7,14 @@ A collection of vector database topics. Refer to this notion [link](https://scra
 
 ## Index
 ### Graph
-  - Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs (IEEE transactions on pattern analysis and machine intelligence'18) [[pdf](https://arxiv.org/pdf/1603.09320)]
-  - Efficient Approximate Nearest Neighbor Search in Multi-dimensional Databases (SIGMOD’23) [[pdf](https://dl.acm.org/doi/pdf/10.1145/3588908)]
+  - (HNSW) Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs (IEEE transactions on pattern analysis and machine intelligence'18) [[pdf](https://arxiv.org/pdf/1603.09320)]
+  - (NSG) Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph[[pdf](https://www.vldb.org/pvldb/vol12/p461-fu.pdf)]
+  - (𝜏-MNG) Efficient Approximate Nearest Neighbor Search in Multi-dimensional Databases (SIGMOD’23) [[pdf](https://dl.acm.org/doi/pdf/10.1145/3588908)]
 
 ### Tree
 - Cover Trees for Nearest Neighbor (ICML’06) [[pdf](https://dl.acm.org/doi/pdf/10.1145/1143844.1143857)]
 
 ### Cluster
-- The Faiss library (Arxiv'24) [[pdf](https://arxiv.org/pdf/2401.08281)]
 
 ### Locality-Sensitive Hash
 
@@ -35,7 +35,13 @@ Neighbor Search with Filters (WWW'23) [[pdf](https://dl.acm.org/doi/pdf/10.1145/
 ### Out-of-distribution query
   - RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search (VLDB’24) [[pdf](https://kay21s.github.io/RoarGraph-VLDB2024.pdf)]
   - OOD-DiskANN: Efficient and Scalable Graph ANNS for
-Out-of-Distribution Queries (Arxiv'22) [[pdf](https://arxiv.org/pdf/2211.12850)]
+Out-of-Distribution Queries (Arxiv'24) [[pdf](https://arxiv.org/pdf/2211.12850)]
+### Cross-modal query
+  - Test-time Adaptation for Cross-modal Retrieval with Query Shift (Arxiv'24) [[pdf](https://openreview.net/forum?id=BmG88rONaU)]
+
+## Library
+  - VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity (USENIX'17) [[pdf](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf)]
+  - The Faiss library (Arxiv'24) [[pdf](https://arxiv.org/pdf/2401.08281)]
 
 ## System
   - Milvus: A Purpose-Built Vector Data Management System (SIGMOD’21) [[pdf](https://www.cs.purdue.edu/homes/csjgwang/pubs/SIGMOD21_Milvus.pdf)]
