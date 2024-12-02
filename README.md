@@ -1,5 +1,5 @@
 # vector-database
-A collection of vector database topics.
+A collection of vector database topics. Refer to this notion (link)[https://scratched-quarter-776.notion.site/1508376d3abf80eb8650d7164a7e4841?v=eaed6e6412ab4b3780f14de000568a24]
 
 ##  Product Quantization
   - Product Quantization for Nearest Neighbor Search (IEEE Transactions on Pattern Analysis and Machine Intelligence'11) [[pdf](https://ieeexplore.ieee.org/document/5432202)]
