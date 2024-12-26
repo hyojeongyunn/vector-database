@@ -10,6 +10,7 @@ A collection of vector database topics. Refer to this notion [link](https://scra
   - (HNSW) Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs (IEEE transactions on pattern analysis and machine intelligence'18) [[pdf](https://arxiv.org/pdf/1603.09320)]
   - (NSG) Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph[[pdf](https://www.vldb.org/pvldb/vol12/p461-fu.pdf)]
   - (𝜏-MNG) Efficient Approximate Nearest Neighbor Search in Multi-dimensional Databases (SIGMOD’23) [[pdf](https://dl.acm.org/doi/pdf/10.1145/3588908)]
+  - Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search (Arxiv'24) [[pdf](https://arxiv.org/pdf/2410.01231)]
 
 ### Tree
 - Cover Trees for Nearest Neighbor (ICML’06) [[pdf](https://dl.acm.org/doi/pdf/10.1145/1143844.1143857)]
@@ -18,6 +19,8 @@ A collection of vector database topics. Refer to this notion [link](https://scra
 
 ### Locality-Sensitive Hash
 
+### Etc
+- GleanVec: Accelerating vector search with minimalist nonlinear dimensionality reduction (Arxiv'24) [[pdf](https://arxiv.org/pdf/2410.22347)]
 
 ### Billion-Scale
   - DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node (NeurIPS’19) [[pdf]( https://papers.nips.cc/paper_files/paper/2019/hash/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Abstract.html)]
@@ -32,6 +35,7 @@ Neighbor Search with Filters (WWW'23) [[pdf](https://dl.acm.org/doi/pdf/10.1145/
 ### Multi-vector query
   - DESSERT: An Efficient Algorithm for Vector Set Search with Vector Set Queries (NeurIPS’23) [[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d6cc45de2e2dea14b96c1eba88fd8ef7-Abstract-Conference.html)]
   - MUVERA: Multi-Vector Retrieval via Fixed Dimensional Encodings (Arxiv’24) [[pdf](https://arxiv.org/pdf/2405.19504)]
+  - Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces (Arxiv’24) [[pdf](https://arxiv.org/pdf/2412.03301)]
 ### Out-of-distribution query
   - RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search (VLDB’24) [[pdf](https://kay21s.github.io/RoarGraph-VLDB2024.pdf)]
   - OOD-DiskANN: Efficient and Scalable Graph ANNS for
